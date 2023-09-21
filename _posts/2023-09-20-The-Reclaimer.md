@@ -1,1 +1,1 @@
----layout: posttitle: The Reclaimer Novelcategories: [Fiction,Storytelling,Writing]---## A Novel IdeaThis is a post to hold botes about this piece of fiction. 
+---layout: posttitle: The Reclaimer Novelcategories: [Fiction,Storytelling,Writing]---## A Novel IdeaThis is a post to hold botes about this piece of fiction. This filenis struggling to open. 
