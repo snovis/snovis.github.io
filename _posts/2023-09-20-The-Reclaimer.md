@@ -2,6 +2,7 @@
 layout: post
 title: The Reclaimer
 categories: [Blog, Writing,Storytelling]
+excerpt: This is an exploration of an archetypal plot. This post contains the plot points and archetypal characters.
 ---
 
 ## A Novel Idea
