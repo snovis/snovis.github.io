@@ -1,1 +1,1 @@
----layout: posttitle: The Reclaimercategories: [Blog, Writing,Storytelling]excerpt: this is a test post frim my iPad---This is a test. 
+---layout: posttitle: The Reclaimercategories: [Writing,Storytelling,Fiction]---## StructureThis is a test. 
