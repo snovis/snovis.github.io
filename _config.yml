@@ -1,6 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 # 2023-09-21 My first deployment of this site on github pages.
+# Apparently updating the yaml forces a rebuild of the site.
+# I'm trying to remove the getting started navigation.
 #
 
 # Name of your site (displayed in the header)
