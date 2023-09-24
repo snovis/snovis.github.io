@@ -114,3 +114,5 @@ Sam looked like she wanted to say more but then bit her tongue.  Instead she fin
 It was time to break some rules and he knew just the person to help.
 
 
+<a href ="{% post_url 2023-09-24-Take-The-Job %}">Prev Chapter</a>
+<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Next Chapter</a>
