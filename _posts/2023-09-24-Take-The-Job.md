@@ -115,4 +115,4 @@ It was time to break some rules and he knew just the person to help.
 
 <hr/>
 <a href ="{% post_url 2023-09-22-A-Needle %}">Prev Chapter</a><br/>
-<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Next Chapter</a>
+<a href ="{% post_url 2023-09-27-Boots-on-the-Ground %}">Next Chapter</a>
