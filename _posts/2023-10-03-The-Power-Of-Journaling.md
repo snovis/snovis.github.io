@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Power of Journaling Version 2
+title: The Power of Journaling Version 3
 categories: [Blog, Journaling]
 excerpt:  It's amazing how such a simple act can have such profound effects on our mental health and overall well-being. You might be wondering why journaling is so beneficial in the first place. I mean, what's the big deal about putting pen to paper? Let me tell you, my friend, there's more to it than meets the eye.
 ---

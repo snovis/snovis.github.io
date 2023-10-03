@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Power of Journaling
+title: The Power of Journaling Version 2
 categories: [Blog, Journaling]
 excerpt: Why journaling can be good for your mental health, second revision.
 ---

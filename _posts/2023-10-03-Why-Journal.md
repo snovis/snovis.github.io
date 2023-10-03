@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Power of Journaling
+title: The Power of Journaling Version 0
 categories: [Blog, Journaling]
 excerpt: Rethink Journaling
 ---
