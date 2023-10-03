@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Power of Journaling: A Pathway to Enhanced Mental Well-being
+title: The Power of Journaling
 categories: [Blog, Journaling]
 excerpt: Rethink Journaling
 ---
 
-# Journaling may be more than you think
+#  Pathway to Enhanced Mental Well-being
 
 Hello there! I woke up this morning with the idea of sharing my thoughts about journaling, an activity close to my heart, and its numerous benefits. So let's delve into it!
 
