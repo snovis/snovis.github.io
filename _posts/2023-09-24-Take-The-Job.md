@@ -2,7 +2,7 @@
 layout: post
 title: Take the Job
 chapter: 3
-categories: [Blog, Writing,Storytelling]
+categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 3 - Rodney goes down the rabbit hole
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Boots on the Ground
 chapter: 4
-categories: [Blog, Writing,Storytelling]
+categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 4 - Rodney calls for help.
 ---
 
