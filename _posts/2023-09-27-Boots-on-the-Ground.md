@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Boots on the Ground
+chapter: 4
 categories: [Blog, Writing,Storytelling]
 excerpt: Rodney calls for help.
 ---
@@ -182,5 +183,6 @@ Damn it.  Why couldn't she just move on?
 She had no answer to that question, so she stared silently out the window and tried not to think about it.
 
 
-***
+<hr/>
 <a href ="{% post_url 2023-09-24-Take-The-Job %}">Prev Chapter</a><br/>
+<a href ="{% post_url 2023-10-08-Launch %}">Next Chapter</a>

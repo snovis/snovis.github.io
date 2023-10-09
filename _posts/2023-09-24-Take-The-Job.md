@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Take the Job
+chapter: 3
 categories: [Blog, Writing,Storytelling]
 excerpt: Rodney goes down the rabbit hole
 ---
