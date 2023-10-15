@@ -114,7 +114,63 @@ Tracy stared at her in disbelief.
 
 Tracy didn't quite know what to day.  "You're sorry you don't have two?  Jess, you're a nurse!"
 
-"Was a nurse.  Now I'm someone who likes to stay alive."
+"Was a nurse.  Now I'm someone who stays alive."
+
+## Detroit
+Tracy hadn't seen Jessica in at least a year, but she still couldn't imagine Jess carrying any kind of weapon.  The most dangerous thing she had ever seen her wield was a multitool.  
+
+"What happened to you?"  Tracy asked as they left her apartment and headed for the street.  Jessica had called the drone this time.  Again they insisted on a ground car.  A flight to the transit center would have been faster, but ground drones were undeniably safer.  
+
+The trip to the transit center happened without incident.  As they approached the terminal, Tracy whispered, "Is that going to be a problem?"  Jessica nodded no, but didn't say anything. 
+
+They passed through the scanners, and then got in line for the next transfer booth.  If you didn't spend much time in Transfer Stations, you would never notice the subtle "thump" of the hidden machinery below.  But every few seconds, Tracy felt the bump from the Neutrino Transfer Wave Detonation.  
+
+Transfer waves worked by instantaneously modifying the probability field of every particle in a given region of space.  The trick was that the region had to be perpendicular to the direction the wave was traveling.  The challenge was that gravity, or curved space-time, restricted how big and area could be safely perpendicular to the wave front.  This deep in the gravity well of Earth, the volume of transferable material was limited to a space hardly larger than a four - passenger car.
+
+Hence, the long lines as people stepped into the transfer rooms on a regular cadence.  Tracy submitted the transfer request to the system and purchased tickets for her and Jessica.  It was like this intricate dance.  Step pause, open, step, close, pause.  Repeat.  People entered the transfer rooms on this side of the Transfer Center, and exited the other side.  Never the two should meet.
+
+The lines were short this late at night but never empty.  Earths population might have been struggling to sustain a stable level, but people still traveled at all hours.  It was the pulse of a vibrant economy.
+
+A few minutes later, Jessica and Tracy stepped into the booth, and they felt the strange swish pull of being instantly transferred to another location on the planet.  Same weight, same time zone this time, but different magnetic field and pull.  Tracy could feel it. Jessica looked momentarily dizzy, then they left the room and headed out into the cool Detroit fall evening.
+
+"The office won't open for another six hours," Tracy scanned her report on Geoff Stikine's company."
+
+"What's the business?"
+
+"Block chain insurance contracts. Mostly shipping companies it looks like," Tracy replied.  
+
+"The offworld type?"
+
+"Any type," She replied.  "It's a boutique business.  Catering to anyone who wants to protect their cargo."
+
+"Funny, you would have thought he was going to protect his," Jessica said snidely.  "So what's the play?  Find a hotel and hold up until the morning?"
+
+Tracy gave Jessica a sideways glance, "You can if you'd like, but for me, this is the perfect time to have a look around."
+
+Jessica nodded.  "Let's go."
+
+For no reason that Tracy could articulate, she opted for a sky drone taxi this time.  Perhaps it was the idea that her would be killer was in Miami, or just she felt pressed for time, but this time she wanted to get to the business as fast as possible.
+
+They wouldn't take out an entire company, would they?  Who the hell were _they_? She asked herself.  
+
+"Who are you talking to?" Jessica asked as the dronecraft settled onto the taxipad, and opened up to let them in.  
+
+"No one," Tracy replied.
+
+"Uh, huh."
+
+Tracy decided to change the subject.  "When did you start packing?" She asked Jessica.
+
+"About the time I started teaching yoga," her friend replied enigmatically.  
+
+Tracy suddenly had the feeling that she hadn't interrupted a boring night for her friend after all, but instead had stepped into the middle of something.  
+
+"Are you going to tell me what is going on?" Tracy asked. 
+
+"Sure," Jessica shot back.  "We're about to burgle your client's company."
+
+They didn't talk for the rest of the ride.
+
 
 <hr/>
 <a href ="{% post_url 2023-10-13-Threshold %}">Prev Chapter</a><br/>
