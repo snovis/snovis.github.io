@@ -115,3 +115,7 @@ Tracy stared at her in disbelief.
 Tracy didn't quite know what to day.  "You're sorry you don't have two?  Jess, you're a nurse!"
 
 "Was a nurse.  Now I'm someone who likes to stay alive."
+
+<hr/>
+<a href ="{% post_url 2023-10-13-Threshold %}">Prev Chapter</a><br/>
+<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
