@@ -174,4 +174,4 @@ They didn't talk for the rest of the ride.
 
 <hr/>
 <a href ="{% post_url 2023-10-13-Threshold %}">Prev Chapter</a><br/>
-<a href ="{% post_url 2023-10-16-Th3D3st1nat10n %}">Next Chapter</a>
+<a href ="{% post_url 2023-10-16-The-Destination %}">Next Chapter</a>
