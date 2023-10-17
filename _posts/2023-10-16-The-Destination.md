@@ -128,3 +128,4 @@ Note feeling terribly confident, Rodney was left with only one plan.  Ask the AI
 
 <hr/>
 <a href ="{% post_url 2023-10-15-Building-a-Web %}">Prev Chapter</a><br/>
+<a href ="{% post_url 2023-10-17-The-Office %}">Next Chapter</a><br/>
