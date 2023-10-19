@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cross Roads
+date: 2023-10-20 08:00
 chapter: 13
 categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 13 - A Dangerous Jump

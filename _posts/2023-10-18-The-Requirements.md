@@ -208,4 +208,4 @@ Rodney was only vaguely aware that they did not in fact, all die in that moment,
 
 <hr/>
 <a href ="{% post_url 2023-10-17-The-Office %}">Prev Chapter</a>
-<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
+<a href ="{% post_url 2023-10-19-The-Clam %}">Next Chapter</a>
