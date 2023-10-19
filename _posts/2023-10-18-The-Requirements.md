@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Requirements
+date: 2023-10-18 08:00
 chapter: 11
 categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 11 - Rodney Meets The Oracle.
@@ -208,4 +209,4 @@ Rodney was only vaguely aware that they did not in fact, all die in that moment,
 
 <hr/>
 <a href ="{% post_url 2023-10-17-The-Office %}">Prev Chapter</a>
-<a href ="{% post_url 2023-10-19-The-Clam %}">Next Chapter</a>
+<a href ="{% post_url 2023-10-19-The-Claim %}">Next Chapter</a>
