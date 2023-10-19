@@ -20,7 +20,7 @@ avatar: /images/SRN-ICON150.png
 #
 # Flags below are optional
 #
-
+timezone: America/Phoenix
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
