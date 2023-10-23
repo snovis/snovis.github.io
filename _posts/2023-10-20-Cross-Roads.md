@@ -140,7 +140,7 @@ Rodney directed the Dawn Treader toward the open queue at the orbital platform. 
 "We shall see," Anil mused.
 
 <hr/>
-<p>Published on: {{ page.date }}</p>
+
 <a href ="{% post_url 2023-10-19-The-Claim %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-10-21-Interview %}">Next Chapter</a>

@@ -208,7 +208,7 @@ Rodney managed to get his harness buckled just in time.  His console was flashin
 Rodney was only vaguely aware that they did not in fact, all die in that moment, but if he never lived through an arrival like that again in his life it would be too soon.
 
 <hr/>
-<p>Published on: {{ page.date }}</p>
+
 <a href ="{% post_url 2023-10-17-The-Office %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-10-19-The-Claim %}">Next Chapter</a>

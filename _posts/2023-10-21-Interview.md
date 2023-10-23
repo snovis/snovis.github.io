@@ -153,7 +153,6 @@ At that moment the door swing upon and two men were standing in the hall holding
 
 
 <hr/>
-<p>Published on: {{ page.date }}</p>
 <a href ="{% post_url 2023-10-20-Cross-Roads %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>

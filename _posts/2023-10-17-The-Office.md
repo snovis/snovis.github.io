@@ -224,4 +224,5 @@ Tracy nodded and said, "Yeah. back there."
 
 <hr/>
 <a href ="{% post_url 2023-10-16-The-Destination %}">Prev Chapter</a><br/>
+&nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-10-18-The-Requirements %}">Next Chapter</a>

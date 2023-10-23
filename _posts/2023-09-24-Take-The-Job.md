@@ -115,5 +115,6 @@ Sam looked like she wanted to say more but then bit her tongue.  Instead she fin
 It was time to break some rules and he knew just the person to help.
 
 <hr/>
-<a href ="{% post_url 2023-09-22-A-Needle %}">Prev Chapter</a><br/>
+<a href ="{% post_url 2023-09-22-A-Needle %}">Prev Chapter</a>
+&nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-09-27-Boots-on-the-Ground %}">Next Chapter</a>

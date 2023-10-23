@@ -185,4 +185,5 @@ She had no answer to that question, so she stared silently out the window and tr
 
 <hr/>
 <a href ="{% post_url 2023-09-24-Take-The-Job %}">Prev Chapter</a><br/>
+&nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-10-08-Launch %}">Next Chapter</a>

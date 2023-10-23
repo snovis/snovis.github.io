@@ -192,4 +192,5 @@ One second later, the Neutrino Translation Wave Payload detonated exactly as it 
 
 <hr/>
 <a href ="{% post_url 2023-10-12-Grinder %}">Prev Chapter</a><br/>
+&nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-10-15-Building-a-Web %}">Next Chapter</a>
