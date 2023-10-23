@@ -155,4 +155,4 @@ At that moment the door swing upon and two men were standing in the hall holding
 <hr/>
 <a href ="{% post_url 2023-10-20-Cross-Roads %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
+<a href ="{% post_url 2023-1-23-Welcome-To-New-Washington %}">Next Chapter</a>
