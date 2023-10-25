@@ -151,4 +151,4 @@ Governor Teerakul's response was swift and efficient.  She threw the lot of them
 <hr/>
 <a href ="{% post_url 2023-10-21-Interview %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
+<a href ="{% post_url 2023-10-24-A-New-Boss %}">Next Chapter</a>
