@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shifting Gears
-date: 2023-10-19 08:00 
+date: 2023-10-28 07:00 
 chapter: 18
 categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 18 - Tracy and Jessica Get Moving
