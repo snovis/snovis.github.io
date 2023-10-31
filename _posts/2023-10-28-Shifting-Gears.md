@@ -153,7 +153,6 @@ Tracy and Jessica exchanged glances as they arrived at the ship.  Perry Six wave
 
 
 <hr/>
-<p>Published on: {{ page.date }}</p>
 <a href ="{% post_url 2023-10-25-A-Dance %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
+<a href ="{% post_url 2023-10-29-What-It-Takes %}">Next Chapter</a>
