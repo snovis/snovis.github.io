@@ -172,4 +172,4 @@ Anil stood up and went to his room and moment later returned with a backpack. "I
 <hr/>
 <a href ="{% post_url 2023-10-28-Shifting-Gears %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-11-03-On-A-Train %}">Next Chapterw</a>
+<a href ="{% post_url 2023-11-01-On-A-Plane %}">Next Chapter</a>
