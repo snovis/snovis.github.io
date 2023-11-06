@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Playing Toether Overview
+title: Playing Together Overview
 date:  2023-11-05 12:00
 chapter: 1
 categories: [Blog, Writing,Business,PlayingTogether]

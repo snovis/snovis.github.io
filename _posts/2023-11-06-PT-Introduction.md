@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Introduction
+title: Playing Together - The Introduction
 date:  2023-11-06 07:00
 chapter: 22
 categories: [Blog, Writing,Business,PlayingTogether]
@@ -43,11 +43,20 @@ There's no silver bullet, but the strategy I've crafted involves three core prac
 
 ### Part Three: The Toolbox
 
+
 Here's the playbook: a step-by-step guide to running a cooperative video game workshop that embodies the principles from this book. It's tested globally and ready for you to implement.
 
+1. Round 1 - First day on the job.
+2. Round 2 - Planning together
+3. Round 3 - Advanced team techniques.
+
+This section gives you the tools, techniques, and tips to deliver a this program in variety of workshop formats from person,  to hybrid, to completely online.  
+
+### Summary
 The essence of this book is threefold: comprehend the problem, explore a solution, and provide a practical guide to fostering teamwork through play. It's about discovering the joy and utility of playing together and the profound impact it can have on your organization.
 
 So, are you ready to see what's holding us back from working better together? Let's dive in.
+
 
 <hr/>
 
