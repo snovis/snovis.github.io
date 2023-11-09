@@ -164,4 +164,4 @@ Only something you could use to bargain with, or threaten the ai construct would
 <hr/>
 <a href ="{% post_url 2023-11-03-On-A-Train %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
+<a href ="{% post_url 2023-11-08-The-Runaway %}">Next Chapter</a>
