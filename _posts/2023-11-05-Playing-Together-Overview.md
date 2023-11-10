@@ -27,7 +27,10 @@ The Table of Contents for this book is:
 The aim of the book is to give you the principles, and the tools to be able to conduct a workshop to help your team work together better.
 
 <hr/>
-<a href ="{% post_url 2023-11-06-PT-Introduction %}">Next Chapter</a>
-&nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-11-05-Playing-Together-Overview %}">Book Overview</a>
+<a href ="{% post_url 2023-11-06-PT-Introduction %}">Introduction</a>
+<ol>
+<li><a href ="{% post_url 2023-11-07-Playing-Together-Ch1-Comprehensive %}">Chapter 1 - Wrong Aim</a></li>
+<li><a href ="{% post_url 2023-11-09-Playing-Together-Chaapter2 %}">Chapter 2 - Wrong Channel</a></li>
+</ol>
+
 
