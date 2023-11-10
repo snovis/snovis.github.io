@@ -30,7 +30,7 @@ The aim of the book is to give you the principles, and the tools to be able to c
 <a href ="{% post_url 2023-11-06-PT-Introduction %}">Introduction</a>
 <ol>
 <li><a href ="{% post_url 2023-11-07-Playing-Together-Ch1-Comprehensive %}">Chapter 1 - Wrong Aim</a></li>
-<li><a href ="{% post_url 2023-11-09-Playing-Together-Chaapter-2 %}">Chapter 2 - Wrong Channel</a></li>
+<li><a href ="{% post_url 2023-11-09-Playing-Together-Chapter-2 %}">Chapter 2 - Wrong Channel</a></li>
 </ol>
 
 
