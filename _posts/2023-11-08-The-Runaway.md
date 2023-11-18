@@ -220,4 +220,4 @@ An alarm sounded on Anil's phone and he flinched.  The expression on his face wa
 <hr/>
 <a href ="{% post_url 2023-11-05-The-Scouts %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-11-18-Metripol-South %}">Next Chapter</a>
+<a href ="{% post_url 2023-11-17-Metripol-South %}">Next Chapter</a>

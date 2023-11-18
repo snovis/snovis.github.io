@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metripol South
-date:  2023-11-18 07:00
+date:  2023-11-17 07:00
 chapter: 24
 categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 24 - Tracy heads south
@@ -163,4 +163,4 @@ Perry Six made his weird shoulderless shrugging motion and then one of the guard
 <hr/>
 <a href ="{% post_url 2023-11-08-The-Runaway %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
-<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
+<a href ="{% post_url 2023-11-18-Cherry-Pie %}">Next Chapter</a>

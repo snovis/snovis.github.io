@@ -163,6 +163,6 @@ Then, she surprised them both.  She did manage to ditch the droid.  She turned a
 Now Casandra and the cherry pie were out of reach.
 
 <hr/>
-<a href ="{% post_url 2023-11-18-Metripol-South %}">Prev Chapter</a>
+<a href ="{% post_url 2023-11-17-Metripol-South %}">Prev Chapter</a>
 &nbsp;&brvbar;&nbsp;
 <a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
