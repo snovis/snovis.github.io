@@ -4,7 +4,7 @@ title: I Was Nervous
 date:  2024-06-14 07:00
 chapter: 0
 categories: [Blog, Writing,Storytelling,Anecdote]
-excerpt: This is an exercise from teh book Storytelling, and it is a real story.
+excerpt: This is an exercise from the book Storytelling, and it is a real story.
 ---  
 
 # The Time I Fell Off a Mountain
