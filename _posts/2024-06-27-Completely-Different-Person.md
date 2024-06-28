@@ -10,7 +10,7 @@ excerpt: This is a story telling exercise from the book Long Story Short. I made
 ## My Thesis: 
 ### I become a different human being when I travel.
 
-If you were to walk into my home office in sunny tempe Arizona, you would likely think two things.
+If you walk into my home office in sunny Tempe Arizona, you will likely think two things.
 
 1. why does this guy work in a cave?
 2. Is he a horder?
