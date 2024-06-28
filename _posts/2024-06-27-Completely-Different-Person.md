@@ -1,10 +1,10 @@
 ---
 layout: post
-title: I'm A Completely Different Person When I Travel
+title: I'm a Completely Different Person When I Travel
 date:  2024-06-27 07:00
 chapter: 0
 categories: [Blog, Writing,Storytelling,Anecdote]
-excerpt: This is a story telling exercise from the book Long Story Short.
+excerpt: This is a story telling exercise from the book Long Story Short. I made a thesis about myself then told a story to prove it.
 ---  
 
 ## My Thesis: 
