@@ -12,8 +12,8 @@ excerpt: This is a story telling exercise from the book Long Story Short.
 
 If you were to walk into my home office in sunny tempe Arizona, you would likely think two things.
 
-1) why does this guy work in a cave?
-2) Is he a horder?
+1. why does this guy work in a cave?
+2. Is he a horder?
 
 The key words here are "shade" and "piles."  Piles of books, keyboards (apparently I have a keyboard fetish) notebooks, pens, and toys cover every horizontal surface.  My drawers and closet aren't much different.  I have no idea idea how many Harley T-shirts I own, but one year when I tossed out a few my wife had a sour look on her face.  I said, "what?"  
 She pointed out that I had just "tossed" over $500 in shirts. I think that's when I started to realize I had a problem.
