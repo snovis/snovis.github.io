@@ -4,111 +4,163 @@ title: Cherry Pie
 date:  2023-11-18 07:00
 chapter: 25
 categories: [Blog, Writing,Storytelling,Novel1]
-excerpt: Chapter 25 - Casandra gets her Cherry Pie
+excerpt: Chapter 25 - Cassandra gets her Cherry Pie
 ---  
 
+> [!warning] About This Chapter
+> This is literally a file I pulled down off of github, it is the last chapter I shared with my mom.  I think I'm going to just pick up the story from here and start writing again.
+> 
+> Going back to what I wrote before may be the easiest way to pick up where I left off.
+
+
 Anil slammed his phone down in frustration. 
-"Careful," Rodney warned him.  "Or you're going to have to by a new phone as well as that pie."  He nodded toward Casandra who was holding a pink box with a white bow in her lap.  Tony sitting next to her, was enjoying a pie of his own. Given that his came from local produce, his cost considerably less.  Her pie had not really cost half of Anil's ship, but the price was breathtaking all the same.  
+"Careful," Rodney warned him.  "Or you're going to have to by a new phone as well as that pie."  He nodded toward Casandra who was holding a pink box with a white bow in her lap.  Tony sat next to her enjoying a pie of his own. Given that Tony's pie was made from local produce, his cost considerably less.  Her pie had not really cost half of Anil's ship, but the price was breathtaking all the same.  
 
-"What's the problem?" He said to Anil around a mouth full of gooey sugarness.  "You wansome?"
+"What's the problem?" Tony asked Anil around a mouth full of gooey sugar.  "You wansome?"
 
-Anil shook his head and turned to look out the window.  "The registry is all wrong," he said.  "Even if I get to her, I'm not sure they would turn her over to me."
+"I will pass," Anil said turning to look out the window.  Clearly his mind was still on his ship.  "The registry is all wrong," he said to no one in particular.  "Even if I get to her, I'm not sure they would turn her over to me."
 
-"Still trying to figure out how to get back to your ship?" Rodney asked.
+Rodney thought about it.  "Who would be able to pull that off?" Anil had gotten out of custody faster than anyone Rodney had ever seen.
 
-Anil nodded.
+"No one," Anil replied, "or at least that's what I thought.  This is... concerning."
 
-"You tired of us already?"
+He turned to look at Rodney, "Could your AI sponsor have done it?"
 
-"The thought of unburdoning you is appealing," Anil sighed.  "This whole trip, the mission from your ai sponsor, it all just feels like such a waste of time."
+Rodney considered.  "Technically, but why bother?  He has us.  He doesn't need a ship."
 
-"Then why don't you tell me what's going on?" Rodney asked.  "Were did Stikine and his family go?"
+"But apparently someone else does.  Anil," Rodney leaned back.  "Who else is chasing Stakine?  Where did he go?"
 
-Anil kept looking out the window. "In truth, I don't know."
+Anil kept looking out the window. "I don't know..." he turned to look at Rodney, "But I suspect a lot of people."
 
-"Bullshit," Rodney said.
+"Where did he go?" Rodney asked.  "You could save us all a lot of trouble if you shared that?"
 
-"No it's true. The only lead I had, where I was headed when I was intercepted by the Orbital Licensing Agency was one of the last stations Tim Connacher visited before he came to Earth."
+Anil shook his head.  "I don't know where he went..."
+
+"Bullshit," Rodney fired back.
+
+"But I knew where he left from.  That's where I was headed when the Orbital Licensing Agency seized my ship."
 
 "You were retracing his steps?"
 
 Anil nodded. "I figured if I could track down where he was, I could piece together where he went."
 
-"You didn't say where you were headed," Rodney brought the conversation back on task. "Where were you trying to jump?"
+"So where exactly was it that you were you trying to jump?"
 
 "The mining colony on Burnett-Davis"
 
-"That is an extremely rough place to jump."
+Rodney thought about it. Burnett-Davis, is an extremely rough place.  "That's not the kind of place you take your family," Rodney said. 
 
-Anil shrugged. "Tim made it there and back. I reasoned I could do the same."
+Anil shrugged. "Stakine didn't go there, Conacher did.  Tim made it there and back. I want to know why he went."
 
-"What did he find Rashad?" Rodney asked. "What was he auctioning off?"
+"What did he find Rashad?" Rodney asked. "What is Conacher get Stakine involved in.  What is he trying to auction off?"
 
-"Power," was Anil's response.  Rodney waited for him to say more, then he seemed to make up his mind about something.  "I don't trust the Nexus, however, I am beginning to think it is in our best interest to untangle this mess."
+"Power," Anil replied.  Rodney waited for him to say more but Anil turned his head to look back out the window.
 
-The light outside the train changed dramatically as they descended from the light line in low orbit toward the station in Metripol South.  They were officially leaving the human section and entering the global city of Metripol South. Despite the fact that it was a global city, Metripol South felt small.  The poles were one of the few places on the planet where the GFU actively applied environmental engineering to create a bubble of civilization.  As the train descended to the surfacer, mountains of ice rose up on either side, like blue white scultpures however Rodney could see signs of a green space ahead.  The city was built in the ravines of the southern most mountains, which normally would have been buried under ice, but which the planetary government had cleared away to make it more habitable for the citizens.  
+Fine, Rodney thought.  Anil could keep his secrets, for now at least.  Odenshi could unravel it all anyway.  The Wiley synth always did.  Rodney trusted the crazy old intelligence more than most humans.  All he had to do was get this song for him.  How hard could that be?
 
-Rodney glanced at the map on his phone to refresh his memory.  The Metripols were laid out like flowers, with the "trade zone" in the center, and each planet having a small pie slice shaped petal on the periphery.  Technically called the boroughs, these zones tended to match their planetary section, but only superficially.  All of it was considered Metripol. The embassies of all the races were located in the trade zone, but their supporting staff, tended to live in the outskirts, almost always in the borough adjacent to their planetary section.  However, the boroughs could and did house anyone.  The train arrived at the outer ring, the end of section transport - like the spokes on a tire approaching the hub, the lines ended disgorging people into the melting pot of the city center.  
+The light outside the train changed dramatically as they descended from the light line in low orbit toward the station at Metripol South.  Officially they left the human section by entering the global city of Metripol South. Despite the fact that it was a global city, Metripol South felt small.  The poles were one of the few places on the planet where the GFU actively applied environmental engineering to create a bubble of civilization.  As the train descended to the surface, mountains of ice rose up on either side, like blue white sculptures.  Rodney saw hints of a green ahead.  It wasn't all a frozen wasteland. 
 
-Rodney, Tony, Anil, and Casandra exited the sky train and walked onto what appeared to be a historical recreation of an old English train station.  Red brick facades and high arches surrounded the platform with green painted steel beams showing their rivets.  
+The city and its denizens filled the the ravines between the mountains.  Without environmental engineering, everything Rodney could see would have been covered under miles of ice - however now what he saw reminded him of Switzerland.  Humble villages nestled between snow capped peaks.  
 
-"This is crazy," Tony said as they walked.
+Rodney pulled up the map on his phone. This mission was getting out of hand.  He wasn't sure what to make of Rashad Anil, nor the Govvian princess holding her box of pie.  He suspected she had to be of a very high class, but just how high?  Either way she was a distraction.  He had to get focused.  Stay on the job.
 
-"I think you'll find the other train stations are similarly romantic," Anil said. "Metripol is not just a market, it is also a chance to show off, to express culture and heritage.  Each race wants the others to know what they are about."
+He looked at the map of the Southern Metripol on his phone, and tried to recall what the General had told him.  The central hub was surrounded by "boroughs," one for each species but Galactic Federal Law applied here, not member law.  The General had been very clear, Earth Law did not apply in the human borough.  He wondered why she had emphasised that.  Something about this area was unsettling to her.  He also recalled that the Governor was not pleased that he was coming this way.
 
-Casandra added, "Yoos will see more traditional clothes here than in the sections.". She was holding her cherry pie like it was her prized possession.  At least she seemed to understand how valuable it was, but Rodney realized it was probably for a different meaning.
+Just how much of a bunch of control freaks did they have to be to worry about a group of humans that had settled outside human law?  Or was it something more?  What if they did get into trouble?  Or worse, what if they _caused_ trouble?  Rodney thought about it.  Yeah, that would have to be stressful.
 
-"Where to?" Rodney asked her.  
+That was probably one reason all the races had Embassies located in the central region, but _not_ in their traditional settlement areas.  Each race might have their own boroughs by tradition, but the zones could, and did house anyone.  
 
-She seemed to think about it.  "I will lead you to the embassy, but you may not enter until you are summoned."
+Rodney put away his phone as the train arrived at the outer ring.  This would be the end of human jurisdiction.  Everything from here forward would be under Galactic Federal Regulations.  His phone flashed a red banner warning him as much.  With a swipe, he accepted the "safety monitor protocol."
 
-"So we're just letting you go inside without us and take that cake?" Tony said incredulously.
+"You might want to turn on your monitor," he told Tony.  "You're phone can offer useful suggestions on how to stay out of trouble."
 
-"It is a pie not a cake," Casandra corrected him.  "Yoos may not enter the embassy until summoned."
+Tony had just finished his pie, nodded and picked up his phone and seeing the same notification as Rodney accepted the helpful warning.
 
-Rodney met Anil's eyes.  The situation wasn't great, but they didn't have a lot of other choices. Besides, the money was spent.  They weren't going to get it back.  "Fine," he said, "But we stay with you until you go in." He wanted to make sure she went. He had met her pushing a scam.  Maybe she wasn't who she said she was.
+Rodney, Tony, Anil, and Casandra exited the sky train.  They walked through what appeared to be an historically accurate recreation of an old English rail station.  Red brick facades and high arches surrounded the platform with green painted steel beams complete with rivets. 
 
-The group of four moved through the station to where they found a kiosk. Rodney connected his phone and purchased tickets for them for the road train.  A steady stream of electric vehicles, all of identical size, shape, and color, pulled into the building to pick up passengers and shuttle them toward the center of the Metroplex.  Rodney noticed that there were a lot of people lugging equipment.  "What's with the gear?" He pointed out to Anil.
+Rodney figured that, even if humanity did not have jurisdiction in this area, they could still flex their culture.  
 
-Anil shrugged.  
+"This is crazy," Tony said looking at the architecture.  "This isn't a facade, they really built it like this."
 
-"It's the trilunar music festival," Casandra explained.  "Don't yoos know anything?"
+Anil nodded, "You'll see similar _period_ structures in the other boroughs.  The GFU issues guidelines for how each culture should represent itself in Metripol."
 
-Rodney felt a shift in the pit of his stomach.  Odenshi had sent them here to get a song, in the middle of a music festival.  "Awesome," Rodney said with as much sarcasm as he could muster.
+"But it's more than that," Casandra added.  "The Metripol is more than a market.  It is your species chance chance to show off. We want everyone to express their culture and heritage.  Every race should get a chance to see all the others to know a little of their cultural history."
 
-"Hold on," Anil paused.  "This might not be a bad thing."
+Casandra added, "This is why yoos will see more traditional clothes here than in the sections." She was holding her cherry pie like it was her prized possession.  At least she seemed to understand how valuable it was.  
+
+Rodney looked at her.  Why was she acting like a tour guide?  That didn't seem right.  He moved so that stayed within an arms reach of her.  Just in case.
+
+"Where to?" Rodney asked.
+
+Casandara's expression could have been human. She looked like she was thinking.  But was she? It bothered Rodney how often people from other species made expressions that seemed to perfectly match a human expression, only to find out later it meant something completely different.
+
+"Let us go to the Govvian Embassy. You may not enter until you are summoned, but is good place to start."
+
+"Why should we go to the Embassy?" Rodney asked.
+
+"Yoos may not enter the embassy until summoned."
+
+"I understand that, but why go there?"
+
+Cassandra seemed not to understand the question and just started to lead them.  Rodney met Anil's eyes.  The situation wasn't great, but they didn't have a lot of choices. Besides, the money was spent.
+
+"Fine," he said, "But we stay together." Cassandra said nothing, which did _nothing_ for his confidence. Hell, He met her pushing some kind of scam.  Her offer to help had the same feeling.  Maybe she wasn't who she said she was. 
+
+The four of them moved left the station and walked through the narrow streets that lead toward the central hub of Metripol South.  Not far outside the station, the road widened allowing a steady stream of electric vehicles, all of identical size, shape, and color, to pull up and offer them rides. 
+
+"What's with all the heavy gear," Tony pointed toward a group of people hauling huger black cases.  Rodney noticed them, and then another, and another.
+
+"Is Music festival," Cassandra explained. "Trilunar music festival.  Is very popular."
+
+Rodney felt a shift in the pit of his stomach.  Odenshi had sent them here to get a song, in the middle of a music festival.  "That's awesome," Rodney muttered.
+
+"What was that?" Anil asked.
+
+Rodney shook his head.  "Nothing."  The synthetic life had always taken care of him, but that did not mean he didn't put Rodney in some uncomfortable situations.  The city was going to be crowded.  Plus, with so many bands, how was he going to find the one song he was looking for?
+
+This entire mission just got a lot harder.
+
+Anil didn't seem all that put out.  "Hey, we're looking for a piece of music right?"
+
+"A song," Rodney confirmed.  
+"Well then this just might be perfect."
 
 "How do you figure?" Rodney asked.
 
-"Lots of concerts means lots of people in the audience."
+"Lots of concerts means lots of people, lots of movement, and maybe more opportunities to track down this music."
 
-Rodney nodded. "More access."
+Rodney considered that.  "In general I don't like crowds, but I can see how we might be able to use it to our advantage.  It's like they have opened up more venues for the performers giving us more access."
 
-Anil shrugged. "I think it's a possibility."
+Even Anil didn't seem excited about his own idea. "I think it's a possibility."
 
-"Hey this sounds pretty cool," Tony spoke up.  "It's completely free, and virtually every major bar, pub, or joint in town is hosting a huge slew of bands.  There's got to be at least 200.  And check it out, the embassies are also hosting local and indigenous acts."
+Tony flashed Rodney a glimpse at his phone, he was already researching the music festival.  Of course he was.  Gathering facts was like breathing for Tony.
 
-Rodney and Anil looked at each other.  "Let's get our princess to the embassy," Rodney said.  They stepped into their travel pod, and it whisked them out into traffic.  The flow of cars formed a train, each car magnetically connecting to the pod in front of it, and accelerated through the ice and rock cut into the glaciers at the edge of the Southern Pole of the planet.  Strings of multi-colored lights were hung from balconies in the ice.  Glacial motels, apartments, and hostels dotted the outer ring of Metripol South.  Banners flapped in the breeze touting the event, and welcoming music fans in every language.
+"You know Rod, this festival actually sounds like it might be fun," Tony said. "And... holy crap, every bar, pub, and hotel has a live stage tonight and tomorrow.  Plus it's free.  No cover charges." Rodney hadn't even considered that they might have trouble getting a room. A free music festival with live music everywhere?      "There's got to be at least 200 bands playing," Tony continued. And it all climaxes with the Govvean Embassy hosting a major concert tomorrow night."
 
-The road train snaked through the canyons and moved them closer to the heart of the city.  Ice started to give way to hints of green, like a perpetual spring, until they were climbing up and down the rocky crags that made up the city.  Metropol South reminded Rodney of some of the mining towns he's seen in Colorado on Earth.  They couldn't be bothered to flatting the mountains or fill the valleys so they built with them.  There seemed to be some pockets of level terrain, those formed the court yards, and open spaces, but homes and apartments dotted the hills above these flat spaces.  The road train followed the flat concrete that snaked between the habitations and switch back up and down the mountains, make it almost feel like  carnival ride.
+Cassandra looked up as Tony said that last part. It was subtle, but Rodney caught it.  She was taking them to the Embassy.  Why had she made such a big deal about not being allowed in when _the very next evening_ they would be hosting a concert open to the public?
 
-The ride from the outskirts to the heart of the metropolis took just under thirty minutes, and the closer they got to the center, the more people they saw.  To Rodney, it felt like the planet was emptying out into it's Southern pole to get ready for a weekend of live music and partying.  It was a strange feeling.  Humanity had been living under such intense pressure for so many generations now, that the idea of just cutting loose and having fun seemed.  Well wrong.  Sure it was a time of _peace_, as there were no open conflicts between the member states of the GFU, however that did not mean times were _peaceful_.
+Rodney wanted to ask her about it, but Cassandra quickened her pace.  "Come, we take car to Embassy."  Cassandra ducked into an electric cab that had just arrive opening its doors.  Rodney followed quickly followed by Anil and Tony.  The doors closed, and the car whisked them down the narrow streets. the taxi joined the flow of cars, which turned into a kind of moving chain.  Each car magnetically connected to the one in front of it.  Once the "train" formed, the line accelerated through the ice and rock cut into the glaciers at the edge of the Southern Pole of the planet. 
 
-As they stepped out of the car, and into the city streats, Rodney sensed an energy here.  Something he could not remember feeling before.
+Rodney could not help but appreciate the architecture.  Strings of multi-colored lights hung from icey balconies.  Glacial motels, apartments, and hostels dotted the outer ring of the City.  Banners flapped in the breeze touting the event, and welcoming music fans in a dozen different languages.  The fabrics rotated their images and languages for the crowd.
 
-"It's called fun," Anil whispered to him. "I suspect you've been in the reclaiming business too long.  People can have it you know."
+Their taxi navigated the streets as part of a road train snaking through narrow streets and climbing switch backs through the vertical cliffs between each borough. 
 
-Rodney grunted.  He'd have fun when this job was over.
+"I've been to carnivals with rides tamer than this taxi," Anil complained.  Rodney ignored him.  Anil liked to complain.
 
-"There's a lot more humans here than I expected," Tony said.  "And couples."
+The ride from the outskirts to the heart of the metropolis took just under twenty minutes.  The crowds increased. Rodney wondered if all the sections were emptying out into the Southern Metropolis for the festival. And why not?  Who wouldn't want to spend a weekend partying to live music.  It was a strange feeling.  Humanity had been living under such intense pressure for so many generations now, that the idea of just cutting loose and having fun seemed  Well wrong.  Sure it was a time of _peace_, as there were no open conflicts between the member states of the GFU and each other, however that did not mean times were _peaceful_.
 
-He was right.  As Rodney glanced around, he saw a substantial number of bipeds with Earth fleshtones. What's more, they seemed to be paired off, or in groups of females _and_ males.  He was also surprised to see _children_.  "Do they often take the younglings to the global market?" Rodney asked. 
+## Embassy Row
+As they stepped out of the autotaxi Rodney could feel the energy.  The streets were swarming with young people, well he assumed everyone was young.  The humans definitely were.  There was something else he didn't realize until Tony said it.
 
-"These aren't younglings," Anil answered.  "These are the defectors.  Not everyone agrees with the colonization policy.  The colony would pull them back if they could, but here, they are subject to Federal Union Law, not human law."
+"Hey, there's couples!" Tony nodded toward young men and women walking in pairs.  Many were holding hands or walking in groups, or fours and sixes.  It had a completely different vibe in the human capital where men and women walked in separate groups.
 
-"You mean, those are..."
+Rodney noticed something else. "Kids too." He couldn't remember seeing that in New Washington. 
 
-"Families," Anil said.  "Some traditions die hard.  The Governor and her triumvirate may believe men are not necessary for the raising of children, or that all women are happy to donate their offspring to the survival of the species _however_, not everyone agrees."
+"These are the defectors," Anil explained. "Not everyone agrees with Earth's colonization policy.  The colony would pull them back if they could, but here, they are subject to Union Law, not human law.  Here they can live as Families."
+
+Rodney whistled.  "That's probably what set the Governor on edge when she found out we'd be heading here."
+
+"Some traditions die hard," Anil mused. "The Governor and her triumvirate may believe men are not necessary for the raising of children, or that women are happy to donate their offspring to the survival of the species _however_, not everyone agrees."
 
 "They defected," Rodney said pondering the significance of that.  "What must the other species think of that?"
 
@@ -124,7 +176,11 @@ He was right.  As Rodney glanced around, he saw a substantial number of bipeds w
 
 "Why do the Govvu admire and hate the humans?" Tony asked.
 
-"Some admire them.  Their freedom.  Others hate their lack of discipline and commitment.  Did you know that a human mand and female Govvu may sire a child together?"  She said this looking directly at Tony.
+"We admire their freedom but hate their lack of discipline and commitment," she answered.
+
+"Does every Govvu think that way?"
+
+"In my family they do," Casandra answered without hesitation. "Did you know that a human male and female Govvu may sire a child together?"  She looked at Tony.
 
 "Really? That works?"
 
@@ -132,35 +188,76 @@ Casandra nodded.  "You look like you would be a good specimen to breed with - " 
 
 "You're station?" Tony asked.
 
-"I am a daughter of the King of our clan.  I am not some orphaned scop who can do with her body what she pleases.  My fertility belongs to our house.  I am obligated to copulate with a Govvu of my station."
+"I am a daughter of a House of the Morning Song.  I am not some orphaned scop who can do with her body what she pleases.  My fertility belongs to my family.  I am obligated to copulate with a Govvu of my station."
 
 "Gee, it sounds so romantic when you say it that way," Rodney chimed in.
 
-"Oh yes, this value you humans place on emotional decision making, that is another attribute that causes us... consternation."
+"I know of your romance," Casandra said. Again Rodney could not read her emotions.  "Tradition makes a mating romantic, not simple physical attraction or emotion.  We are not animals.  We did not evolve thinking to stop using our minds when it matters most.  That humans are so easily distracted by their animal nature also causes Govvu... consternation."
 
-"Don't pretend like you don't feel things," Rodney said. "You said it yourself, Govvu and human's are genetically compatible.  You feel."
+"Don't pretend like you don't have feelings," Rodney said. "You said it yourself, Govvu and human's are genetically compatible.  You must have emotions."
 
-"Yes I do!" Casandra agreed. "But we have ritual, tradition, and family bond to protect us from our emotions."
+"Of course we do!" Casandra agreed. "But rituals, traditions, and family bonds protect us from our animal nature. Our emotions serve us, not the other way around."
 
-They paused at the entrance to a massive courtyard, it was one of the few places where the planetary engineers had leveled the hills and smoothed the valleys.  
+Rodney was not entirely sure he believed that.  From what he knew about the Govvuans they could be as hot blooded (or cold) as any human.
 
-"Embassy Park," Anil announced as they took in the view.  It reminded Rodney of Central Park in New York City, only instead of sky scrapers all around, it was hills and canyons lined with buildings and structures, many of which bridged the narrow valleys that twisted between the vertical stone walls.  
+Casandra lead them to the entrance to a massive courtyard, it was one of the few places where the planetary engineers had leveled the hills and smoothed the valleys.  
 
-Around the periphery of the green space stood enormous compounds, the embassies.  It was clear that this place was as much about showing off to the neighbors as it was about functionality.  Each embassy faced the central area with it's lush vegetation, rivers, small ponds, and walking paths. The electric vehicles circulated around the periphery.  Only organic power was allowed in the green belt.  That meant walking on foot, or taking a carriage pulled by some beast of burden.  Rodney saw a few horses, but just as many other creatures.  Some looked like Zebras, but others were strange, like big balls of rolling spikes, or lizards with fat bellies that scraped along the ground.  He saw a couple carriages pulled by tall blue creatures that looked like giraffes with scales.  
+"So this is Embassy Park," Anil said as the others walked up beside him to take in the view.  Rodney found the sight both familiar and alien.  One the one hand it reminded him of Central Park in New York City. But where NYC had sky scrapers, this park had palace size compounds, and behind each seemed to stretch out canyons and narrow streets.  I take it those are the embassies? Rodney asked.
 
-"There," Casandra pointed to one particularly impressive monument on the far side of the park.  "The Govvu Embassy."  It was an impressive structure, built from some kind of white stone, it looked like it had gems the size of basketballs mounted at the top of every column.  The building made Rodney think of something that was a blend between ancient Greek architecture, a fairy tale castle, and something designed for mer-people.  Shells, and aquatic themes decorated the building.  The Govvu didn't just like water, they _revered_ the sea.  
+Cassandra pointed to the largest one near the head of the park.  "That is the Govvu Emperate," she said.
 
-Casandra led them up to the front gate, holding her pie box out in front of her like some kind of ceremonial offering.  As they approached the compound entrance, Rodney noted two guards, well armed stationed to either side of the gate.  They were likely there, not so much for show, but to remind everyone that the entire compound was guarded, and probably by weapon systems you couldn't see.  Rodney was quickly scanning the fence, and perimeter when Casandra seemed to trip, and the pie box _flew_ out of her hands.  Both Rodney and Anil lunged to grab it.  That was when she made her move.  In the blink of an eye, she ducked and sprinted to the left into the crowd and along the fenced side of the embassy.
+Rodney noticed that the park was devoice of vehicles. Just people, walking around under their own locamotion.  The electric vehicles stayed on a ring road that surrounded the park.  Only organic power was allowed in the green belt.  The park was a melting pot of sentient beings as well as animals.  He didn't have the time or the patience to take it all in. He wasn't here on vacation. He needed to finish a task so he could do his job.  This entire excursion had already taken too much time.  
 
-Anil caught the box, but then held it up. It was empty.
+Rodney started to walk directly at the Govvean building that dominated the near end of the square.
 
-Rodney spun to go after her, realizing she had duped them, he just thought she would try to go once they were inside.  Rodney pulled a small black ball out of his pocket and tossed it into the air. The microdrone took off, homing in on the beacon Rodney had planted in the pie when he bought it.  A kind of alarm went off, chiming in several languages before it said in common, "No drones or filming in the Embassy."  The drone wasn't in embassy air space, but there was still a chance they could shoot it down.  Rodney reluctantly issued the device an order to stay clear of the Govvu compound.  
+He couldn't tell what the building was made of, some kind of white sparkly stone. He probably could have looked it up, but he wasn't in the mood.  The building had been meant to impress, to create a physical embodiment of the Govvu influence in the GFU.  No one else had a compound half as large, and the human embassy was pathetically small in comparison. While it was not the smallest, it was close.  That irritated Rodney.  Maybe humanity was johnny come lately to the Union, but by technology and contribution they pulled way above their weight.  The Nexus proved that.
 
-He pushed his way through the crowd, half heartedly giving chase.  She would make some move or another to lose them, but the drone would be nearly impossible to shake.  He watched as she deftly flowed through the crowd.  "Princess my ass," Anil said watching Rodney's screen.  
+The Govvean architecture also bothered Rodney.  Something between fairy tale princess story and art deco steam punk, the proportions were cut for a different sensibility.  It was both too wide, and too tall, but felt shallow, like a thick wavey wall covered in space sea shells.  Rodney was sure someone was proud of it, but from his perspective it was just plane ugly.
 
-Then, she surprised them both.  She did manage to ditch the droid.  She turned and went through a side gate and into the compound.  Rodney raised up the drone to get video of her as she went into the house.  He caught a glimpse of two boys along side her when the bright flash of a pulse rifle ended their video footage when it vaporized the drone.
+Cassandra led them to the front gate.  She held the pie box in front of her like a ceremonial offering.  Approaching the front gate, Rodney noted the guards. There were 8 on each side.  Well armed, they formed two half arcs which likely traced out the path of the gate when it opened.  Rodney assumed the massive thing was bonze, but it might as well have been gold.  The Govvu could afford that.  Rodney wondered at the purpose of having such a force in front of a diplomatic embassy.  Who was going to try and rush the gates here?  Who even wanted to get into Govvu _except_ the Govvu? 
 
-Now Casandra and the cherry pie were out of reach.
+Rodney scanned for the real security, the scanners and cameras that would record everyone who even came near the compound.  Hell they probably were tracking everyone in the park.  He turned to look up at the oddly proportioned tower.  And that was when Cassandra tripped. The pie box _flew_ out of her hands like it had been launched.  Tony and Anil lunged to grab it before it could hit the ground.  But just as they moved, so did Cassandra, in the other direction.  Rodney spun to grab her then thought better of it.  16 Govvean guards might take exception to a human male grabbing one of their own.  Clever. She was so damn clever.  
+
+Instead, Rodney turned to follow.  Damn she was fast.  Anil and Tony bent over the box then looked up, realizing too late it had been a roose.
+
+Anil opened the box.  It was empty.  Rodney thought he could hear him swear. But he didn't have time for that. He needed to keep up with Cassandra.  She moved like water, flowing through the crowd weaving along the side of the fence In front of the embassy.  Anywhere else, Rodney would have tossed a microdrone - if he'd had one - but even if he did, he knew the embassy would see that as an act of hostility.  You don't fly surveillance equipment in Embassy airspace.  Damn, she'd really set them up.  
+
+All he could do was move as quickly as possible without breaking into run. Thanks to long legs and years of military practice marching, Rodney could do just that.  Some training never left.  With long strides and quick cadence he started to close the distance between himself and Cassandra.  He could feel some eyes on him, but it was the best he could do.
+
+Cassandra looked back once, then something like surprise crossed her face when she saw Rodney was closing fast.  She started to run, but she didn't scream.  Apparently she didn't want a commotion either.
+
+Despite her efforts, Rodney's size and pace drew more attention so people were moving out of his way but slowed down in front of her to watch him, forcing her to shove them aside.  Only then did people in the crowd start to put two and two together. In another minute Rodney would be the one they would try to slow - but his calm demeanor and steady march gave them pause. He did not look like a crazed killer, but rather someone in authority.   Cassandra gave off the aura of a trouble maker by frantically looking back over her shoulder but never crying for help.
+
+She was practically at the large fence that bordered the compound when Rodney caught up to her.  She was pinned between the thick metal bars and Rodney's outstretched hand.  She turned her back to the embassy finding Rodney's eyes holding his gaze. He paused for a moment.
+
+Then she smiled, and stepped backward through the bars, passing through them like they were an illusion.  Rodney lunged for her and smacked his knuckles against the hard metal fencing.  "What the fuck?"  What's more, he could not see Cassandra on the other side. She had literally vanished.
+
+Rodney paced up and down the fence, reaching out and grabbing at it, touching it.  For all the world it seemed like an ordinary fence.  Moments later Anil and Tony caught up to him, both were panting and out of breath.
+
+"Where is she?" Tony asked, hands on his knees.
+
+"She just vanished through the fence," Rodney said, feeling irritated.  What the hell.
+
+"Maybe she was telling the truth," Anil, not out of breath, but breathing heavier than normal said.  "She might have had a phase necklace."
+
+Rodney looked at him.  
+
+"The metal is solid to us, but a phase pendant, or necklace can make it so that as light passes through glass, who ever is wearing it can pass through the fence.  They are paired.  You can't just pass through any old chunk of metal, it takes a special process to match them up and tune them, but they can be quite handy."
+
+"Handy,  yeah," Rodney stood there with his hands on his hips.  "If she just passed through then why did she vanish?  Why can't I see her on the other side?"
+
+"Oh that parts easy," Tony said.  "All the Embassies do it.  Even ours.  There's a privacy projection just inside the fence.  Tourists think they're seeing the compound while the staff inside can go about their business without people leering at them."
+
+Rodney shook his head.  "She ate the damn pie didn't she?"  
+
+"She ate the pie," Anil said.
+
+Tony pointed at a spot on the ground.  "Maybe she ate some of it, but I don't think she ate all of it."  He walked over and touched a spot near the fence on the paver.  It was a dark sticky blotch.  "This the spot where she vanished?"
+
+Rodney nodded, "Yeah, there about."
+
+Tony touched the dark goo and smelled it, then licked it.  "Yup. Cherry pie filling.  It looks like she was saving some for later."
+
 
 <hr/>
 <a href ="{% post_url 2023-11-17-Metripol-South %}">Prev Chapter</a>
