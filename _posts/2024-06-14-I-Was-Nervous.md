@@ -10,70 +10,70 @@ excerpt: This is an exercise from the book Storytelling, and it is a real story.
 # The Time I Fell Off a Mountain
 I am hiking in the cool fresh morning air of Switzerland, high in the mountains.  Twenty or so other exchange students and local kids surround me as we work our way toward the "Bella Grossa," the beautiful fat lady.  There is a mixture of snow on the ground, red algae that live on the snow, green grass, small pretty flowers, and black volcanic rocks.  The Sun is up, but we can't see it yet because it is hidden behind the mountain.
 
-I'm not nervous because I'm hiking, or because I'm in a group.  I'm nervous because _she_ is there.  Like me, she is 18 but unlike me she is absolutely gorgeous.  She has that something, that spark, that energy.  Like the sun, I can't look direclty at her, and I can't look away.
+I'm not nervous because I'm hiking, or because I'm in a group.  I'm nervous because _she_ is there.  Like me, she is 18 but unlike me, she is absolutely gorgeous.  She has that something, that spark, that energy.  Like the sun, I can't look directly at her, and I can't look away.
 
 I don't really pay much attention to what anyone is saying around me. I'm sure they are chatting about the pointless stuff all teenagers talk about.  But my mind is racing.  How can I get her to notice _me_?  
 
-Of course, I'm 18.  So thoughts of walking up and talking to her, getting to know her are absolutely not an option.  They come into my head and die just as quickly as they arrive.  _That's not going to work_, I tell myself.  No, I need her to notice me, and only me.  Of course I have no idea what will happen after that, but the high testoserone in my brain won't let me think beyond that.
+Of course, I'm 18.  So thoughts of walking up and talking to her, getting to know her are absolutely not an option.  They come into my head and die just as quickly as they arrive.  _That's not going to work_, I tell myself.  No, I need her to notice me, and only me.  Of course, I have no idea what will happen after that, but the high testosterone in my brain won't let me think beyond that.
 
-That leaves me only one option.  The option that seems obvious to every fit 18 year old boy.  Feats of strength.  I'm going to have to win her attention by demonstrating my skill, my prowess, my raw ability.  But how am I going to do that on a hike?  Little did I know an opportunity would soon present itself.
+That leaves me only _one_ option.  The option that seems obvious to every fit 18-year-old boy.  Feats of strength.  I'm going to have to win her attention by demonstrating my skill, my prowess, my raw ability.  But how am I going to do that on a hike?  
 
-Now, when I say fit, in my case I was not just healthy, I am in the best shape of my life.  You see, I signed up to be an exchange student in the summer between my junior and senior year in highschool, and this trip, fell right in the middle of football camp.  And the coach told me before I left, "There won't be a spot for you on the starting roster when you get back.". He thought I was taking a vacation.
+The opportunity soon presented itself.
 
-The fear of losing my starting position was so strong, I rose every morning, for three weeks at the crack of down, and rode the bicycle my host family lent me into town to lift weights in the local gym.  But not only was I lifting weights, I was too lazy to do the metric conversion.  By the end of the summer, I thought I was pressing 200 pounds - only to discover that the plates were 25 kilos, not 25 pounds. I was bench pressing 265 pounds and squatting almost 400.
-And Then, after those grueling workouts, when I was completely spent, I would climb on my bike, and ride it ten miles home, up hill the entire way.
+Now, just to be clear, when I say "fit", in my case I am more than healthy. I am in the best shape of my life.  You see, I am doing my exchange student program in the summer between my junior and senior year in high school - right in the middle of football camp.  Before I left coach told me to my face, "There won't be a spot for you on the starting roster when you get back.". He was pissed.  He thought I was taking a vacation.
 
-I wasn't just fit, I was training at altitude against an invisible foe who had taken my spot on the starting roster.  I wasn't just motivated, I was terrified this trip just might ruin my senior season, my last, playing football.
+The fear of losing my starting position was so strong, I got up every morning at the crack of down, and rode a janky old 10 speed bike into town to lift weights in the local gym.  But not only was I lifting weights, I was too lazy to do the metric conversion.  By the end of the summer, I thought I was pressing 200 pounds - only to discover that the plates were 25 kilos, not 25 pounds. I was bench pressing 265 pounds and squatting almost 400.
 
-So on this beautiful august morning, I am standing in the swiss alps, dressed in the kind of outfit only a low self awareness of an 18 year old athlete could don with confidence.  I looked like a cross between a homeless kid and someone who only had stolen the socks from an outfit worn Duran Duran.  It is the mid 1980's and I am wearing a tank top, short-shorts - you know the kind Isaa Thomas wore when the Pistons were world champs.  You could count the change in my pocket that's how tight they were.  And of course knee length socks.  To top it off I had a Harrison Highschool Hawks painters cap on, the pinnacle of clueless fashion choices.
+Then, after those grueling workouts, when I was completely spent, I would get on my bike, and ride home, ten miles home, climbing up hill the entire way.
+
+I wasn't just fit.  I was training at altitude against an invisible foe who had taken my spot on the starting roster!  I was more than motivated. I was terrified this trip would might ruin my senior season playing football.
+
+So on _this_ beautiful august morning, standing in the Swiss alps, I'm dressed in the kind of outfit only a low self awareness 18-year-old athlete could don with confidence.  I looked like a cross between a homeless kid and someone who had stolen a hat from Duran-Duran.  It is the mid-1980s. I am wearing a tank top, short-shorts - the kind Isaah Thomas wore when the Pistons were world champs.  You could count the change in my pocket that's how tight they were.  And of course knee-length socks.  To top it off I had a Harrison High Hawks painters cap on, the pinnacle of clueless fashion.
 
 But I'm 18, and _buff_.  I didn't know it at the time, but I could have worn a garbage bag and made it look chic.  
 
-Nearly all 18 year olds have that quality, of being vibrant, overflowing with life, but short on wisdom.  
+While everyone is walking, and talking, and I am lost in my thoughts.  I am trying to play it cool, hanging back. I'm not really listening, but nodding and pretending like I'm part of the conversation.  Grunts will get you pretty far when you're 18.  Then I saw the perfect chance to demonstrate my strength and agility.
 
-While everyone is walking, and talking, and I am lost in my thoughts.  I am trying to play it cool, hanging back, not really listening, but nodding and protending like I'm part of the conversation.  Grunts will get you really far when you're 18.  Then I saw my opportunity.  Right there before me appeared the perfect chance to demonstrate feats of strength.
+The leader of our group stopped in front of a vertical rock formation. I was a pillar of black basalt, reaching up into the bright blue sky. And with the wisdom of someone barely turned 19, he scrambles straight up the side.  He doesn't say anything to anyone.  He just starts climbing. guy behind him follows.  I need no invitation.  This is my chance.  I grab ahold of the cooled lava and start my ascent. Come hell or high water I am going to _show_ her how awesome I am.  She will have no choice but to notice me!
 
-The leader of our group saw a vertical rock formation, more like a pillar. And with the wisdom of someone just barely turned 19, he starts to scramble up this vertical post.  Other guys start to follow.  I need no invitation.  Here is my chance.  I am going to join them come hell or high water and _show_ her how awesome I am.  She will have no choice but to notice me!  
+That she had been paying just as much attention to me during the hike is beside the point.  Apparently fate gifted me with a strong intellect at the expense of a functioning social radar.
 
-That she had been paying just as much attnetion to me during the hike is beside the point.  Apparently fate gifted me with a strong intellect at the expense of a functioning social radar.
+I'm agile and strong and I ascend quickly. And to my delight, my strategy worked _perfectly_.  _She_ starts climbing too, right next to _me_!  But there's no room for her!
 
-As I start to climb, I see there is not a lot of room on this post of a volcanic formation.  But I'm agile, and strong, and I quickly ascend to the top.  Then, as if my unspoken wish was granted, _she_ decides to come up too, next to _me_!  But dang it there's no room for her!
+So, to make space, I quickly swing myself toward the outside of the rock face, making a path for her to sit on the top.   A chorus of voices call out, "Be careful!"
 
-So I quickly swing myself to the outside of the rock face, off the top to make space for her.  I hear a chorus of voices say, "Be careful!"
+I fire back with complete confidence, "Shut up, I know what I'm doing!"  I am so cool.
 
-And with no hesitation, I fire back with complete confidence, "I know what I'm doing!"  
+And it is the precise moment the rock I grab to steady myself comes off in my hands.  It turns out the perfectly shaped lump was not attached to the pillar, but was just resting there, like plates on a shelf.  The moment I pulled on them, instead of pulling me closer to the pillar, they slid toward me, and I fell backward out into space.
 
-And it was at that exact moment, the rock I had grabbed to steady myself slid clean off in my hands.  It turns our the nice round lump of stone that was perfectly suited to hold with both hands was not really attached to the outcrop, but was instead was a perfectly round set of flat stones stacked on top of each other like dinner plates.  Only gravity held them in place.  They slid off neat as you please when I applied the slightest horizontal force.
+The ground is twenty... feet... down...
 
-And then I was falling over backward... twenty... feet... off... the... ground.
-
-I fell into open air, tumbling over backward.  And in that instant - if time didn't stop, it certainly stretched -  I thought three things.
+As I tumble time stops, or at least it stretches out - three things race through my mind in rapid succession.
 
 First, I wondered if I was going to die.  The answer came back so fierce, and so strong, I accepted it without question:
 
 "No!"
 
-Then I wondered if I would be cripled.  Again the response like thunder rang through my head:
+Then I wondered if I would be crippled.  Again the response like thunder rang through my head:
 
 "No!"
 
 Then... I lost my gum.
 
-I had been chewing life savers winter green gum, a flavor I had brought with me from the States.  Good gum was hard to find in Switzerland.  And that precise moment I hit the ground on my back and shoulder.  Now when I say I was in the best shape of my life, I'm not kidding.  My arms and shoulders were huge.  I weight 185 without an ounce of fat.  So when I hit that ground that way, I had enough muscle to absorb the shock, but the force of the hit knocked the gum out of my mouth and I to this day remember clearly the shock of flying away from the ground seeing my bright green gum on the dark black basalt.  I even remember reaching out and thinking, "My gum!"
+I had been chewing Wrigley's wintergreen gum, a flavor I brought from the States.  Good gum can be hard to find in Switzerland.  And that precise moment I hit the ground on my back and shoulder.  Now when I say I was in the best shape of my life, I'm not kidding.  My arms and shoulders were huge.  I weight 185 without an ounce of fat.  When I hit that ground I bent in half like a jack knife, then _bounced_ back into the air. But the force of the blow knocked the gum out of my mouth.  And I will recall for the rest of my life the sight of that green gum on the black rocks as I flew _away_ from the ground.  I reached for it mouthing the words, "My gum!"
 
-Then I did this weird summersault, and landed on the ground as if I was in a lounge chair, feet crossed, in a reclining position.
+I do a weird somersault, and land as if I am reclining in a lounge chair, feet crossed, arms at my sides on makeshift arm rests..
 
-The next thing I became aware of was the collective gasp of everyone around me.  There was this strange silence, a huge gasp, then the sounds of rushing feet.
+The next thing I became aware of is the collective gasp of everyone around me.  Then a this strange silence, followed by boots scrabbling over rock and snow.  Everyone is rushing over to me.
 
-Incredibly, I was "fine." I definitely felt sore, but for the most part, I could walk.
+Incredibly, I am "fine."  I think the adrenaline masked most of the soreness, I can walk.
 
-I would not find out until months later that I had actually broken my back.  To this day, I carry around a small souvenier from the trip.  When I hit the ground and lost my gum I had folded in half like a jacknife and then sprung open causing my flip.  That severe bending forward chipped on of my vertebrae.  Only when the team doctor for the football team took an x-ray of my back did they find it.  I was having some lower back pain - mostly do to ramming my helmet clad dome into other players helmets during blocking exercises. But that's when they found the bone fragment.  The doctor looked at, puzzled, said something like, "Well I'll be damned.". He did some more tests, asked me if it turn or if I felt numbness anywhere. I said, "No." and he told me not to worry about it.  
+Months later that I would learn I broke my back in that fall.  To this day, I carry around a small souvenir from the hike.  When I hit the ground and lost my gum, the severe bend chipped one of my vertebrae.  After I had some back pain later in the fall, an X-ray revealed the injury.  The doctor looked at, puzzled, said something like, "Well I'll be damned.". He did some more tests, asked me if I felt numbness or discomfort anywhere.  "Nope," I said.  Then he told me not to worry about it.  He believed they would do more harm to me trying to remove it than letting it be.
 
-Except, now every time someone new X-rays my back I have to worn them about it or they **FREAK** out.  Apparently having looks bone chips in your spine is usually cause for concern.
+The only real problem is that every time someone X-rays my back I have to warn them about what they will find, or they **FREAK** out.  Apparently having bone chips in your spine is normally a cause for concern.
 
-But you're probably wondering what happened with the girl?  Well, I defintely got her attention.  And can you guess who helped me walk back to teh youth hostel?  And shared a bottle of wine with me?
+But you're probably wondering what happened with the girl?  Well, I definitely got her attention.  She's the one who helped walk me back to the youth hostel that night.  And, since the drinking age in Switzerland is only 18, we enjoyed a perfectly legal bottle of wine together, and a rather frustrating night in a crowded bunk house with our trip chaperones.  
 
-Was it worth breaking my back?  Well, some experiences you do want to hold in confidence, but if I only had one chance to make that kind of play and walk away unscathed I would say, yeah it was worth it.  Like the mountain I fell off of, I would never see her again, but she left me with a memory I would never forget.
+Was it worth breaking my back?  It's hard to say.  I never saw her, or that mountain again, but in that moment will stay with me forever.  And all kidding aside, I don't know where those answers came from when I was suspended in time between heaven and earth, but I do know, someone is looking out for me.
 
-However, I will admit, I sure am glad I learned how to _talk_ to women.  I never felt like I was any good at it, but the risks of conversation pale in comparison to breaking your back.
-
+I will also admit, after that experience, learning to talk to women is a better strategy than feats of strength.  
