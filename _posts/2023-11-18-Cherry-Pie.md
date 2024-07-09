@@ -7,10 +7,7 @@ categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 25 - Cassandra gets her Cherry Pie
 ---  
 
-> [!warning] About This Chapter
-> This is literally a file I pulled down off of github, it is the last chapter I shared with my mom.  I think I'm going to just pick up the story from here and start writing again.
-> 
-> Going back to what I wrote before may be the easiest way to pick up where I left off.
+> Hi Mom, this chapter is the last chapter I wrote in the Reclaimer story. I went back, and redrafted it to get a feel for where I left off.
 
 
 Anil slammed his phone down in frustration. 
