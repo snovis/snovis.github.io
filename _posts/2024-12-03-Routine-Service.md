@@ -120,3 +120,8 @@ Tracy stepped in and the glass panel closed behind her.  She waited for the fina
 She also realized she was under dressed for this climate.  And the mixture sudden chill and the realization that she was completely alone almost brought her to her knees.  She felt so tired.  And here she was again. Alone.  The fatigue and stress washed over her like a wet blanket.  She needed to find a place to put her head down, to rest, to regroup.  She forced herself to move forward, and started looking for a room to rent.  She stumbled up the street toward a crowd of humans walking down a narrow cobble stone street that looked warm and, if not friendly, inviting.
 
 She tried to take a quick inventory.  She'd reached Metripol South, but she still needed to make her way to the Scout Compound (which she had no idea where it was), and gain access to their database.  Only now, Jessica and Perry Six were taking the long way around.  A brief moment of hope lit up for her.  She knew Rodney was on Cross Roads, but where?  Could he be here? In Metripol?  Or would she find him in New Washington?  With Perry Six around, there was no point in looking, for Rodney.  Not only would Perry Six not allow it, it would more than likely create more problems for him.  But now.... dared she risk it?
+
+<hr/>
+<a href ="{% post_url 2023-11-18-Cherry-Pie %}">Prev Chapter</a>
+&nbsp;&brvbar;&nbsp;
+<a href ="{% post_url 2023-09-20-The-Reclaimer %}">Book Overview</a>
