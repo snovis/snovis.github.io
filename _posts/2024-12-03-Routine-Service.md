@@ -6,6 +6,7 @@ chapter: 26
 categories: [Blog, Writing,Storytelling,Novel1]
 excerpt: Chapter 26 - Tracy deals with losing her android
 ---  
+
 "Why did you not declare your sentient device?" The agent demanded.  The Sudaato clearly did not trust sentient machines.
 
 Tracy looked at the two uniformed cat people who were staring at her from across the low table.  It was hard for her to take them seriously.  While a few were tall, like humans, Sudaato came in all sizes only more so. These two imperious sounding agents, speaking through a common translator device, looked to be little larger than children.  However, the gray specks of fur near their whiskers spoke of age and experience, if not wisdom.
